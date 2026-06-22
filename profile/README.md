@@ -31,7 +31,7 @@ To ensure this project reflects true industry-grade development standards, the t
 
 *   **Branching Strategy:** Direct pushes to `main` are strictly prohibited. All features are developed in isolated `feature/*` branches and integrated into `develop` via structured Pull Requests.
 *   **Peer Reviews:** Every single Pull Request requires a mandatory technical review and approval from another team member before integration.
-*   **Documentation First:** Complete system specifications, architecture blueprints, and requirement specifications (SRS) are maintained iteratively in our dedicated [resilience-platform-documents](https://github.com) repository.
+*   **Documentation First:** Complete system specifications, architecture blueprints, and requirement specifications (SRS) are maintained iteratively in our dedicated (https://github.com/Resource-Coordination-Platform/resilience-platform-documents) repository.
 
 ---
 
