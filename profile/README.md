@@ -23,6 +23,7 @@ Meet the development and engineering team behind this platform:
 | **Keshana** | https://github.com/KeshRD | 
 | **Chandupa** | https://github.com/Dilhanahpc |
 | **Tharindu** | https://github.com/Disanayakaktk |
+| **Tharindu** | https://github.com/tharindudisanayaka |
 
 ---
 
